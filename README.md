@@ -13,7 +13,7 @@ See [INSTALL.md](INSTALL.md).
 See [GETTING_STARTED.md](GETTING_STARTED.md).
 
 #
-This code is modified based on FastReID
+This code is modified based on FastReID.（https://github.com/JDAI-CV/fast-reid）
 #
 If you have any question, please feel free to contact with me. My name is Hongchao Li and my email is lhc950304@foxmail.com.
 
