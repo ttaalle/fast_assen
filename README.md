@@ -2,7 +2,7 @@ Codes of "Attribute and State Guided Structural Embedding Network for Vehicle Re
 
 ## Annotated data
 Data with attributes and states:
-BAIDU link: 
+BAIDU link: https://pan.baidu.com/s/1ZIpAdfNUMfqbCmMTpEIuDQ Extraction code：1uxe
 
 ## Installation
 
